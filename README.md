@@ -16,32 +16,27 @@
   
 
 <br/> 
-```java
-public class Engineer {
-  String Name ;
-  String UniName;
-  int  noLangs;
-  String Langs;
-  
-  public Engineer (String name, String UniName , int noLangs) {
-      this.Name = name;
-      this.UniName = UniName;
-      this.noLangs = noLangs;
-      Langs [] = new String [noLangs] ;
-  }
-  
-  public static void main (String args []){
-      Engineer Sokk = new Engineer("Aly Hassan Elsokkary" , "German University In Cairo" , 3);
-      Sokk.Langs[0] = "Ar";
-      Sokk.Langs[1] = "En";
-      Sokk.Langs[2] = "De";
-  }
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-}
+
+class Pentester:
+
+    def __init__(self):
+        self.name = "Noureldin"
+        self.role = "Pentester"
+        self.language_spoken = ["ar", "en_US", "de_DE", "tr_TR", "es_MX"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Pentester()
+me.say_hi()
 ```
 
 
-<br/> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
