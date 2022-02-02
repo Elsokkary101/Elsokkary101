@@ -18,24 +18,28 @@
 <br/> 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```Java
+public class Engineer {
+  String Name ;
+  String UniName;
+  int  noLangs;
+  String Langs;
+  
+  public Engineer (String name, String UniName , int noLangs) {
+      this.Name = name;
+      this.UniName = UniName;
+      this.noLangs = noLangs;
+      Langs [] = new String [noLangs] ;
+  }
+  
+  public static void main (String args []){
+      Engineer Sokk = new Engineer("Aly Hassan Elsokkary" , "German University In Cairo" , 3);
+      Sokk.Langs[0] = "Ar";
+      Sokk.Langs[1] = "En";
+      Sokk.Langs[2] = "De";
+  }
 
-
-class Pentester:
-
-    def __init__(self):
-        self.name = "Noureldin"
-        self.role = "Pentester"
-        self.language_spoken = ["ar", "en_US", "de_DE", "tr_TR", "es_MX"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = Pentester()
-me.say_hi()
+}
 ```
 <br/> 
 
@@ -118,15 +122,7 @@ me.say_hi()
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Elsokkary101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
+<br/>   
 
 <br/>  
 
@@ -140,5 +136,3 @@ me.say_hi()
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
