@@ -23,7 +23,7 @@ public class Engineer {
   String Name ;
   String UniName;
   int  noLangs;
-  String Langs;
+  String Langs [];
   
   public Engineer (String name, String UniName , int noLangs) {
       this.Name = name;
