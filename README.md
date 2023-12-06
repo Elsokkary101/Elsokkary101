@@ -4,12 +4,13 @@
   
 
 ### <div align="center">I'm Sokkary, Software Engineer 👨‍💻 studying and working remotely since 2020🚀</div>  
-  
+
+- I'm working at [Singularity Finance](https://singularity.finance) 
 
 - 🔭 I’m currently studying at [German University In Cairo](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Deep Learning and DevOps  
+- 🌱 I’m currently a Blockchain enthusiast.
   
 
 - ⚡ Fun fact: I adore Koshary that I can eat as my breakfast 🍲  
