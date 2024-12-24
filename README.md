@@ -4,7 +4,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Habiba Khaled Ali El Khouly, Architect and Software Engineer 👩‍💻 exploring AI and Blockchain 🚀</div>  
+### <div align="center">I'm Aly , Software Engineer 👩‍💻 exploring AI and Blockchain 🚀</div>  
 
 - 🌱 I’m currently pursuing a **Master's in Artificial Intelligence** at the German University in Cairo.  
 
@@ -16,7 +16,6 @@
 
 - 🎓 Graduated from the **German University in Cairo** with an A- in Computer Science and Engineering.  
 
-- ⚡ Fun fact: I love Egyptian architecture and enjoy designing green roof systems.  
 
 <br/>
 
@@ -32,7 +31,7 @@ class Engineer:
     def introduce(self):
         return f"I'm {self.name}, a passionate {self.field} with skills in {', '.join(self.skills)}."
 
-me = Engineer("Habiba Khaled Ali El Khouly", "AI and Blockchain Development", ["Python", "Django", "React Native", "Web3"])
+me = Engineer("Aly Hassan Elsokkary", "AI and Blockchain Development", ["Python", "Django", "React Native", "Web3"])
 print(me.introduce())
 ```
 
@@ -71,27 +70,9 @@ print(me.introduce())
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
 
-## Connect with Me  
-<div align="center">
-<a href="https://github.com/HabibaKhouly" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/habiba-khaled-ali-el-khouly/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
-<br/>  
 
-## GitHub Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HabibaKhouly&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=HabibaKhouly&&style=flat-square" align="center" />
-</div>  
 
 <br/>
