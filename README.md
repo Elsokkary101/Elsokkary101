@@ -10,7 +10,6 @@
 
 - 🧠 Currently pursuing my **Innovation in Artificial Intelligence** master's  
 - 🛠 Building **GenAI tools** for productivity, growth & monetization  
-- 📰 Sharing AI insights, tools, and demos weekly on [LinkedIn](https://linkedin.com/in/aly-elsokkary) & [Medium](#)  
 - 🏗 Previously worked on recommendation engines, anti-fraud systems, and scalable mentorship platforms  
 - 🧑‍🎓 GUCian with a background in Computer Science & Engineering  
 
